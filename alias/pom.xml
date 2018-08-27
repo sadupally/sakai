@@ -18,8 +18,6 @@
     <connection>scm:svn:https://source.sakaiproject.org/svn/alias/trunk</connection>
     <developerConnection>scm:svn:https://source.sakaiproject.org/svn/alias/trunk</developerConnection>
     <url>https://source.sakaiproject.org/svn/alias/trunk</url>
-	
-vijay test now whywhwy
   <modules>
     <module>alias-tool/tool</module>
   </modules>
