@@ -7,6 +7,7 @@
      <version>10.5</version>
      <relativePath>../master/pom.xml</relativePath>
   </parent>
+  
   <name>Sakai Access Project</name>
   <groupId>org.sakaiproject</groupId>
   <artifactId>access-base</artifactId>
@@ -32,6 +33,4 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-  
-  Vijay test with SFISO
-</project>
+  </project>
