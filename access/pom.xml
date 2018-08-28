@@ -32,5 +32,6 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+  <magagula>Testing</magagula>
  
 </project>
