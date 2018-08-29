@@ -20,5 +20,6 @@
     <url>https://source.sakaiproject.org/svn/alias/trunk</url>
   <modules>
     <module>alias-tool/tool</module>
+	 <module>SONETTE TEST</module>
   </modules>
 </project>
